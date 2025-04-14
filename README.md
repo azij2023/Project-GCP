@@ -1,4 +1,5 @@
-# PTask 1.
+# P
+Task 1.
 gcloud auth list
 gcloud config list project
 Task 2.
